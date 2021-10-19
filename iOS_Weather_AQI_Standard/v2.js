@@ -6,8 +6,8 @@ $.token = "hackl0us_aqi_token";
 const aqicnToken = $.getdata($.token) || "";
 
 const AirQualityStandard = {
-  CN: "HJ6332012.4",
-  US: "EPA_NowCast.4",
+  CN: "HJ6332012.2113",
+  US: "EPA_NowCast.2113",
 };
 
 const AirQualityLevel = {

@@ -13,7 +13,7 @@ https://raw.githubusercontent.com/rrriiicccooo/rrriiicccooo/main/iOS_Weather_AQI
 -
     如果你的地区和语言设置分别是美国和英文 - 添加   
 ```
-https://raw.githubusercontent.com/rrriiicccooo/rrriiicccooo/main/iOS_Weather_AQI_Standard/en_US_iOS_Weather_AQI_Standard
+https://raw.githubusercontent.com/rrriiicccooo/rrriiicccooo/main/iOS_Weather_AQI_Standard/en_US_iOS_Weather_AQI_Standard.conf
 ```
 2. 打开 BoxJs
     - http://boxjs.com

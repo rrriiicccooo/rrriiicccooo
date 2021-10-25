@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/rrriiicccooo/rrriiicccooo/main/iOS_Weather_AQI
     - http://127.0.0.1:9999
 > 关于 BoxJs 的使用教程请查看 BoxJs 使用手册 [https://chavyleung.gitbook.io/boxjs/](https://chavyleung.gitbook.io/boxjs/)
 
-3. BoxJs 中 订阅 - 添加
+3. 在BoxJs 中 订阅 - 添加
 ```
 https://raw.githubusercontent.com/Hackl0us/SS-Rule-Snippet/master/Scripts/hackl0us.boxjs.json
 ```

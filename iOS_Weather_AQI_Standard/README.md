@@ -1,6 +1,8 @@
 ## 修改自 [Hackl0us](https://github.com/Hackl0us/SS-Rule-Snippet/blob/master/Scripts/Surge/iOS_Weather_AQI_Standard.js) 原始项目，以及 [chouchoui](https://github.com/chouchoui/QuanX/tree/master/Scripts/iOS_Weather_AQI_Standard) 项目
 
-##使用教程：
+## 使用教程：
+
+注意：该脚本与您设备的地区与语言设置相关
 
 首先前往 https://aqicn.org/data-platform/token/ 注册账户，将申请的 API Token 记录下来
 

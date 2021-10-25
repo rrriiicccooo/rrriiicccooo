@@ -1,5 +1,4 @@
-## 修改自 [Hackl0us](https://github.com/Hackl0us/SS-Rule-Snippet/blob/master/Scripts/Surge/iOS_Weather_AQI_Standard.js) 原始项目
-## 以及 [chouchoui](https://github.com/chouchoui/QuanX/tree/master/Scripts/iOS_Weather_AQI_Standard) 项目
+## 修改自 [Hackl0us](https://github.com/Hackl0us/SS-Rule-Snippet/blob/master/Scripts/Surge/iOS_Weather_AQI_Standard.js) 原始项目,以及 [chouchoui](https://github.com/chouchoui/QuanX/tree/master/Scripts/iOS_Weather_AQI_Standard) 项目
 
 ##使用教程：
 

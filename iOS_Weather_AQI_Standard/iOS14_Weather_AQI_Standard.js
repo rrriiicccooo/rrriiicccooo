@@ -100,7 +100,7 @@ function constructAirQuailityNode(aqicnData) {
 	airQualityNode.metadata.reported_time = timeConversion(new Date(aqicnData.time.iso), 'remain')
 	airQualityNode.metadata.read_time = timeConversion(new Date(), 'remain')
 	airQualityNode.metadata.expire_time = timeConversion(new Date(aqicnData.time.iso), 'add-1h-floor')
-	airQualityNode.metadata.language = "en-US"
+	airQualityNode.metadata.language = "en-CN"
 
 	return airQualityNode
 }

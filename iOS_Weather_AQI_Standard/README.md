@@ -8,12 +8,12 @@
 
 1. 打开 Quantumult X，重写 - 引用
 -
-    如果你的地区和语言设置分别是中国大陆和英文 - 添加
+    如果您的地区和语言设置分别是中国大陆和英文 - 添加
 ```
 https://raw.githubusercontent.com/rrriiicccooo/rrriiicccooo/main/iOS_Weather_AQI_Standard/iOS_Weather_AQI_Standard.conf
 ```
 -
-    如果你的地区和语言设置分别是美国和英文 - 添加   
+    如果您的地区和语言设置分别是美国和英文 - 添加   
 ```
 https://raw.githubusercontent.com/rrriiicccooo/rrriiicccooo/main/iOS_Weather_AQI_Standard/en_US_iOS_Weather_AQI_Standard.conf
 ```

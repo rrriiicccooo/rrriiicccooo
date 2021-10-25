@@ -4,9 +4,16 @@
 
 首先前往 https://aqicn.org/data-platform/token/ 注册账户，将申请的 API Token 记录下来
 
-1. 打开 Quantumult X，重写 - 引用 - 添加
+1. 打开 Quantumult X，重写 - 引用
+-
+    如果你的地区和语言设置分别是中国大陆和英文 - 添加
 ```
 https://raw.githubusercontent.com/rrriiicccooo/rrriiicccooo/main/iOS_Weather_AQI_Standard/iOS_Weather_AQI_Standard.conf
+```
+-
+    如果你的地区和语言设置分别是美国和英文 - 添加   
+```
+https://raw.githubusercontent.com/rrriiicccooo/rrriiicccooo/main/iOS_Weather_AQI_Standard/iOS_Weather_AQI_Standard_en_US.conf
 ```
 2. 打开 BoxJs
     - http://boxjs.com

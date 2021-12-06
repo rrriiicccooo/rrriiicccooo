@@ -30,3 +30,6 @@ https://raw.githubusercontent.com/Hackl0us/SS-Rule-Snippet/master/Scripts/hackl0
 4. 在 应用 中找到刚订阅的 `Hackl0us 应用订阅`，点击下方的 `将 iOS 系统原生 天气 App 的空气质量标准改为 AQI-US` 应用
 5. 在 应用设置 的 aqicn API Token 文本框中填入 aqicn.org 申请获得的 Token，保存设置
 6. 在天气应用中查看是否生效
+
+---
+已失效，可移步https://github.com/VirgilClyne/iRingo该项目获得更好体验

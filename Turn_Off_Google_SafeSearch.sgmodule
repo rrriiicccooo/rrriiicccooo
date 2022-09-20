@@ -1,5 +1,5 @@
 #!name=Better Google Search
-#!desc=关于谷歌的重定向
+#!desc=Improve Google user experience
 
 [URL Rewrite]
 ^(https:\/\/www\.google\.com([.a-z]+)?\/.+)(&safe=(active|strict)&)(.+) $1&safe=off 302
